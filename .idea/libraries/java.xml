@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/antlr4-4.12.0/antlr4-4.12.0/antlr4-maven-plugin/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/antlr4-4.12.0/antlr4-4.12.0/antlr4-maven-plugin/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/antlr4-4.12.0/antlr4-4.12.0/runtime-testsuite/resources/org/antlr/v4/test/runtime/helpers" />
+      <root url="file://$USER_HOME$/Downloads/antlr4-4.12.0/antlr4-4.12.0/runtime-testsuite/test" />
+      <root url="file://$USER_HOME$/Downloads/antlr4-4.12.0/antlr4-4.12.0/runtime/Java/src" />
+      <root url="file://$USER_HOME$/Downloads/antlr4-4.12.0/antlr4-4.12.0/tool-testsuite/test" />
+      <root url="file://$USER_HOME$/Downloads/antlr4-4.12.0/antlr4-4.12.0/tool/src" />
+    </SOURCES>
+  </library>
+</component>
